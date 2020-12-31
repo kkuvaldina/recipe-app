@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bef625c8fff11942bba2536292b4f7f2",
+    "revision": "f634897c68382c19947011cb02876ede",
     "url": "/recipes-app/index.html"
   },
   {
-    "revision": "a3162f046173bfee562c",
+    "revision": "29dcdafb9f945e61f6c0",
     "url": "/recipes-app/static/css/2.a655b9c5.chunk.css"
   },
   {
-    "revision": "77237e6f7ff41b95eb89",
-    "url": "/recipes-app/static/css/main.26767dc4.chunk.css"
+    "revision": "80b9379026d96a2f26de",
+    "url": "/recipes-app/static/css/main.4022664a.chunk.css"
   },
   {
-    "revision": "a3162f046173bfee562c",
-    "url": "/recipes-app/static/js/2.7c215a3b.chunk.js"
+    "revision": "29dcdafb9f945e61f6c0",
+    "url": "/recipes-app/static/js/2.833c5644.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/recipes-app/static/js/2.7c215a3b.chunk.js.LICENSE.txt"
+    "url": "/recipes-app/static/js/2.833c5644.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "77237e6f7ff41b95eb89",
-    "url": "/recipes-app/static/js/main.4a1c0173.chunk.js"
+    "revision": "80b9379026d96a2f26de",
+    "url": "/recipes-app/static/js/main.d8b93298.chunk.js"
   },
   {
     "revision": "708b3c032c4ff34b4650",
@@ -72,6 +72,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/recipes-app/static/media/icons.faff9214.woff"
   },
   {
+    "revision": "93aa59c83aa1e4d35971ad13c57d8a92",
+    "url": "/recipes-app/static/media/low-carb.93aa59c8.svg"
+  },
+  {
+    "revision": "9e7f113533813f60c728ad5da34e0147",
+    "url": "/recipes-app/static/media/low-fat.9e7f1135.svg"
+  },
+  {
+    "revision": "19bce5f20dde37e518add0f6a7e0726b",
+    "url": "/recipes-app/static/media/lunch.19bce5f2.svg"
+  },
+  {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/recipes-app/static/media/outline-icons.701ae6ab.eot"
   },
@@ -90,5 +102,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/recipes-app/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "ff90d9e73e6adcf0a79447dc5a6e4a66",
+    "url": "/recipes-app/static/media/protein.ff90d9e7.svg"
+  },
+  {
+    "revision": "69fb809297de0f4898408b52dca37c89",
+    "url": "/recipes-app/static/media/snack.69fb8092.svg"
+  },
+  {
+    "revision": "926acfc1f9e8cebf832d40f97e8ae968",
+    "url": "/recipes-app/static/media/vegetable.926acfc1.svg"
   }
 ]);
