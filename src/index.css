@@ -138,6 +138,26 @@ a.ui.card:hover {
   color: #79a3b1;
 }
 
+.image-container {
+  margin-right: 10px;
+}
+
+.image-container:last-child {
+  margin-right: 0px;
+}
+
+.menu-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+.menu-container span {
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+
 @media (max-width: 500px) {
   .header {
     font-size: 15px;

@@ -7,3 +7,5 @@ export const fetchRecipesAPI = ({ from, to, searchWord }) =>
   axios.get(
     `${apiIngredientsURL}q=${searchWord}&app_id=0ac46f36&app_key=${apiKey}&from=${from}&to=${to}`
   );
+
+
